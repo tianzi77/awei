@@ -7,9 +7,22 @@
   + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true)
 - **Android:**
   + [直接下载](https://github.com/tianzi77/awei/blob/master/soft/51-SSR.apk?raw=true)
-- **iOS 9.3 及以上:**
-  + [中国 App Store](https://itunes.apple.com/cn/app/%E5%B0%BC%E9%A9%AC%E4%BB%A3%E7%90%86/id1260125306?mt=8) | [US App Store](https://itunes.apple.com/us/app/mudhorse-proxy/id1260125306)
-### 说明
-
+- **iOS 10.0 及以上:**
+  + [中国 superWingy]() | [US wingy]()
+### 图示说明
+- **Windows:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.jpg?raw=true" alt=""></p>
+- **MAC:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac1.png?raw=true" alt=""></p>
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac2.jpg?raw=true" alt=""></p>
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac3.jpg?raw=true" alt=""></p>
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac4.jpg?raw=true" alt=""></p>
+- **Android:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/android.jpg?raw=true" alt=""></p>
+- **iOS 10.0 及以上:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone.png?raw=true" alt=""></p>
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone1.png?raw=true" alt=""></p>
+### 注意
+<p>端口均指远程端口，本地一般情况不变，注意加密方式和图片试列的区别。</p>
 ### Credit
 - [**阿威**](https://www.google.com/)
