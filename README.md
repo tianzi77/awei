@@ -12,17 +12,22 @@
 ### 图示说明
 - **Windows:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.jpg?raw=true" alt=""></p>
+
 - **MAC:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac1.png?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac2.jpg?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac3.jpg?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac4.jpg?raw=true" alt=""></p>
+
 - **Android:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/android.jpg?raw=true" alt=""></p>
+
 - **iOS 10.0 及以上:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone.png?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone1.png?raw=true" alt=""></p>
+
 ### 注意
 <p>端口均指远程端口，本地一般情况不变，注意加密方式和图片试列的区别。</p>
+
 ### Credit
 - [**阿威**](https://www.google.com/)
