@@ -27,7 +27,7 @@
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone1.png?raw=true" alt=""></p>
 
 ### 注意
-<p>端口均指远程端口，本地一般情况不变，注意加密方式和图片试列的区别。</p>
-
+<p>端口均指远程端口，本地一般情况不变，注意加密方式和图片示列的区别。</p>
+<p>协议origin。混淆plain,用苹果小火箭的时候选择混淆none,安卓默认不变，注册PC版进行更改协议origin。混淆plain加密AES256cfb</p>
 ### Credit
 - [**阿威**](https://www.google.com/)
