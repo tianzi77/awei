@@ -2,7 +2,7 @@
 
 ### 下载 
 - **Windows:**            
-  + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.zip?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.zip?raw=true) 
+  + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) 
 - **MAC:**                
   + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true)
 - **Android:**
