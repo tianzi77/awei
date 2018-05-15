@@ -12,6 +12,7 @@
 ### 图示说明
 - **Windows:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.jpg?raw=true" alt=""></p>
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/pca.jpg?raw=true" alt=""></p>
 
 - **MAC:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac1.png?raw=true" alt=""></p>
