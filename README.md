@@ -8,7 +8,7 @@
 - **Android:**
   + [直接下载](https://github.com/tianzi77/awei/blob/master/soft/51-SSR.apk?raw=true)
 - **iOS 10.0 及以上:**
-  + [中国 superWingy]() | [US wingy]()
+  + [中国 ssrconnect pro]() | [US wingy]() | [US Shadowrocket]()
 ### 图示说明
 - **Windows:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.jpg?raw=true" alt=""></p>
@@ -24,6 +24,7 @@
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/android.jpg?raw=true" alt=""></p>
 
 - **iOS 10.0 及以上:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/app.png?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone.png?raw=true" alt=""></p>
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/iphone1.png?raw=true" alt=""></p>
 
