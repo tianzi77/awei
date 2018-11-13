@@ -2,7 +2,7 @@
 
 ### 下载 
 - **Windows:**            
-  + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) 
+  + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/SSTap-beta-setup-1.0.8.5.exe.7z?raw=true) 
 - **MAC:**                
   + [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true)
 - **Android:**
@@ -10,9 +10,11 @@
 - **iOS 10.0 及以上:**
   + [中国 ssrconnect pro]() | [US wingy]() | [US Shadowrocket]()
 ### 图示说明
-- **Windows:**
-<p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.jpg?raw=true" alt=""></p>
-<p><img src="https://github.com/tianzi77/awei/blob/master/soft/pca.png?raw=true" alt=""></p>
+- **Windows单文件:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/win.png?raw=true" alt=""></p>
+
+- **Windows安装版:**
+<p><img src="https://github.com/tianzi77/awei/blob/master/soft/win1.png?raw=true" alt=""></p>
 
 - **MAC:**
 <p><img src="https://github.com/tianzi77/awei/blob/master/soft/mac1.png?raw=true" alt=""></p>
