@@ -2,7 +2,7 @@
 
 ### 下载 
 - **Windows:**            
-  + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-S.S.R-win.7z?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/SSTap-beta-setup-1.0.8.5.exe.7z?raw=true) 
+  + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/win4.9.zip?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/SSTap-beta-setup-1.0.9.7.zip?raw=true) 
 - **MAC:**                
   + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true)
 - **Android:**
