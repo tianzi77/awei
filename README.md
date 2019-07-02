@@ -4,7 +4,7 @@
 - **Windows:**            
   + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/win4.9.zip?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/SSTap-beta-setup-1.0.9.7.zip?raw=true) 
 - **MAC:**                
-  + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true)
+  + [单文件版](https://github.com/tianzi77/awei/blob/master/soft/51-ss-2.6.3.dmg?raw=true) | [安装版](https://github.com/tianzi77/awei/blob/master/soft/ssr-mac.dmg?raw=true)
 - **Android:**
   + [直接下载](https://github.com/tianzi77/awei/blob/master/soft/51-SSR.apk?raw=true)
 - **iOS 10.0 及以上:**
